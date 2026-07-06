@@ -3,7 +3,7 @@ emoji: 🛡️
 name: GHAS Weekly Report
 description: Weekly report on all GitHub Advanced Security findings categorized by severity with detailed context
 on:
-  schedule: weekly on monday around 9am UTC
+  #schedule: weekly on monday around 9am UTC
 permissions:
   contents: read
   security-events: read
